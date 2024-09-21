@@ -1,0 +1,20 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+
+Answer:
+Flask is a lightweight Python framework that is simple and suitable for building REST APIs. I choose Python because of its readability and wide use in the backend community.
+
+2. What are the advantages and disadvantages of your solution?
+
+Answer:
+Advantages: 
+This solution is a simple and scalable design, easy to extend to multiple users.
+
+Disadvantages:
+This solution could be optimized for larger datasets by using a more sophisticated data structure for transactions.
+
+3. What has been a favorite school/personal project thus far? What about it challenged you?
+
+Answer:
+One of my favorite projects was building an edtech system that allowed students to access resources, track progress, and join interactive lessons. The challenge was creating a scalable platform for different users—students, teachers, and administrators—while ensuring real-time data processing, security, and a seamless experience across devices.
+
+The toughest part was optimizing the system to handle live classroom interactions between students and teachers. I had to develop efficient algorithms and ensure the platform could scale as the user base grew. Despite the challenges, it was a rewarding experience that taught me a lot about full-stack development and user-focused design.
